@@ -18,7 +18,7 @@ Projeto desenvolvido durante o evento NLW Copa, promovido pela Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.png" width="100%">
+  <img alt="Calendário da Copa" src=".github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
